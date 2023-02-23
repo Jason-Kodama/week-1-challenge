@@ -1,9 +1,13 @@
-#Horiseon
+# Horiseon
 
-##Description
+## Description
 
 Horiseon is an accessible website for businesses. 
 It allows you to search for prospect clients, manage reputatation, and create a market for social media.
 
-##Visuals
+## Visuals
 ![text image](https://github.com/Jason-Kodama/week-1-challenge/blob/main/assets/images/digital-marketing-meeting.jpg)
+
+## Link
+
+[Horiseon](https://jason-kodama.github.io/week-1-challenge/)
